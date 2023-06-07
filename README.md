@@ -80,29 +80,15 @@ background: #F20B7A;
 
 
 ### HOME PAGE:
-![Screenshot (19)](https://github.com/Leann4468/event-registration/assets/121165979/1bdc1b49-a5d9-4fa7-a7dc-80de6ab97efd)
+
+![Screenshot (33)](https://github.com/sriramss4880/event-registration/assets/120554177/63e5a357-6dcd-4b19-9457-344fc2de0ff7)
 
 ### LOGIN PAGE:
-![Screenshot (20)](https://github.com/Leann4468/event-registration/assets/121165979/16323e59-6b52-41e2-8523-96d431e7b4ff)
+![Screenshot (34)](https://github.com/sriramss4880/event-registration/assets/120554177/b03f45ca-6e49-4017-9397-a0e1ab406cf5)
 
 ### SEC PAGE:
-![Screenshot (21)](https://github.com/Leann4468/event-registration/assets/121165979/26925f1d-1719-432d-928f-b158bef84d18)
+![Screenshot (35)](https://github.com/sriramss4880/event-registration/assets/120554177/af2ce30e-1ff0-492c-9878-a214f6ce17af)
 
 ## Result:
 Thus, A Web application for event registration is designed and displayed.
 
-```
-
-## DESIGN:
-
-### HOME PAGE:
-![Screenshot (34)](https://github.com/sriramss4880/event-registration/assets/120554177/cb2c86f0-c9c3-4c4e-9e54-73c8517f6d36)
-### LOGIN PAGE:
-![Screenshot (35)](https://github.com/sriramss4880/event-registration/assets/120554177/a8d2e573-8714-4af5-b4e5-6f5eb01c37cf)
-### SEC PAGE:
-![Screenshot (33)](https://github.com/sriramss4880/event-registration/assets/120554177/9550bb59-3404-4a1e-a189-f1022c369608)
-
-
-
-## Result:
-Thus, A Web application for event registration is designed and displayed.
